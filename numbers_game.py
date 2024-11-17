@@ -30,10 +30,10 @@ def run_game():
     initialize_game_state()
     
     # Page configuration
-    st.set_page_config(page_title="Number Guessing Game", page_icon="🎮")
+    st.set_page_config(page_title="Number Guessing Game/ Samirah", page_icon="🎮")
     
     # Title and instructions
-    st.title("🎮  Number Guessing Game ")
+    st.title("🎮  Number Guessing Game / Samirah ")
     st.markdown("""
     Try to guess the secret number between 1 and 100!
     You have 7 attempts to find it.
